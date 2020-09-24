@@ -54,7 +54,7 @@ function SignIn() {
   return (
     <>
       <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
-      <p>Let's Chat. Come inside and don't be 😈 </p>
+      <p style={{margin:"0 auto", padding:"2rem"}} >Let's Chat... Come inside and don't be 😈 </p>
     </>
   )
 
